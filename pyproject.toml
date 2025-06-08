@@ -1,0 +1,19 @@
+[project]
+name = "data_analysis_internship"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Samana Fatima", email = "s22sfati@uni-bonn.de"},
+]
+dependencies = []
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
