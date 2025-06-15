@@ -1,7 +1,8 @@
-Order_ID,Customer_Name,Email,Phone,Product_Category,Order_Date,Revenue,Discount (%)
-101,John Doe,john@email.com,9876543210.0,Electronics,2023-12-31 00:00:00,1200,10.0
-102,Alice Smith,Unknown,9898989898.0,Clothing,2024-01-05 00:00:00,500,0.0
-103,Bob Miller,bob@email.com,Unknown,Electronics,2024-12-01 00:00:00,3000,20.0
-105,David White,david@email.com,9123456789.0,Furniture,2024-02-15 00:00:00,2500,15.0
-106,Emma Brown,emma@email.com,9234567890.0,Clothing,2024-08-03 00:00:00,700,5.0
-107,Chris Green,Unknown,9345678901.0,Furniture,2024-04-10 00:00:00,1800,25.0
+"Order_ID";"Customer_Name";"Email";"Phone";"Product_Category";"Order_Date";"Revenue";"Discount (%)"
+101;"John Doe";"john@email.com";"9876543210";"Electronics";"2023-12-31";1200;"10"
+102;"Alice Smith";"not_provided@gmail.com";"9898989898";"Clothing";"2024-01-05";500;"Unknown"
+103;"Bob Miller";"bob@email.com";"Unknown";"Electronics";"2024-12-01";3000;"20"
+105;"David White";"david@email.com";"9123456789";"Furniture";"2024-02-15";2500;"15"
+106;"Emma Brown";"emma@email.com";"9234567890";"Clothing";"2024-08-03";700;"5"
+107;"Chris Green";"not_provided@gmail.com";"9345678901";"Furniture";"2024-04-10";1800;"25"
+108;"Alice Smith";"alice@email.com";"Unknown";"Clothing";"2024-03-08";500;"Unknown"
