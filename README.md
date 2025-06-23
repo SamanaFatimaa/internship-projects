@@ -53,7 +53,7 @@ To apply advanced data science methods such as predictive modeling, machine lear
 ✅ Key Tasks
 
 - Handle missing values, outliers, and inconsistent categories
-- Predict sales using regression and time series models
+- Predict sales using regression
 - Perform ANOVA, hypothesis testing, and factor analysis
 - Segment customers using decision trees and clustering
 - Build churn prediction models
