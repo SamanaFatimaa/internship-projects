@@ -61,3 +61,32 @@ To apply advanced data science methods such as predictive modeling, machine lear
 🛠️ Tools Used
 
 - Python (Pandas, numpy, Scikit-learn, Statsmodels)
+
+# Week 4: AI-Powered Data Analysis & Automation
+
+🎯 Objective
+To apply AI-enhanced tools and techniques for efficient data cleaning, visualization, predictive modeling, and strategic business decision-making.
+
+✅ Key Tasks
+
+- Data Cleaning and Preprocessing
+  
+  Used Python and Power BI to handle missing values, detect outliers, and standardize data formats for consistency and reliability.
+
+- AI-Enhanced Data Visualization and Storytelling
+  
+  Leveraged Power BI’s advanced features such as Quick Insights, Key Influencers, Smart Narratives, and Anomaly Detection to automatically uncover patterns, explain key drivers of performance, and communicate findings through dynamic visuals.
+
+- Predictive Modeling
+  
+  Built and evaluated predictive models using Python to forecast sales trends and customer behavior. Applied regression techniques and performance metrics to assess model accuracy and impact.
+
+- Risk Analysis and Business Strategy
+
+ Analyzed financial data to identify risk factors (e.g., likelihood of loan default) using Power BI's AI visuals and Python-based models. Translated insights into actionable business recommendations for risk mitigation and strategic planning.
+
+🛠️ Tools Used
+
+- Power BI (Data Transformation, Quick Insights, Smart Narratives, Key Influencers, Anomaly Detection)
+
+- Python (Pandas, Scikit-learn, Seaborn, Matplotlib)
